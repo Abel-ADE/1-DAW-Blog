@@ -1,6 +1,8 @@
 # Ejercicio CSS - Blog con responsive
 
-Ejercicio realizado en la asignatura lenguajes de marcas en el primer año de DAW. Disponible en el siguiente enlace: https://abel-ade.github.io/1-DAW-Blog/
+Ejercicio realizado en la asignatura 'lenguajes de marcas' en 1º de DAW. Basado en el siguiente codepen de Enium: https://codepen.io/Eniun/pen/oNggLGE
+
+Disponible en el siguiente enlace: https://abel-ade.github.io/1-DAW-Blog/
 
 <h2 align="center">Previsualización:</h2>
 
